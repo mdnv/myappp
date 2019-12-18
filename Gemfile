@@ -42,7 +42,7 @@ group :development, :test do
  gem "brakeman", require: false
  gem "jshint"
  gem "bundler-audit"
- gem "rubocop", "~> 0.51.0", require: false
+ gem "rubocop", "~> 0.78.0", require: false
  gem "rubocop-checkstyle_formatter", require: false
  gem "scss_lint_reporter_checkstyle", require: false
  gem "rails_best_practices"
